@@ -1,0 +1,25 @@
+{
+  "name": "@fighting-design/eslint-config-vue",
+  "version": "0.0.1",
+  "description": "",
+  "license": "MIT",
+  "keywords": [],
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "eslint": ">=7.4.0"
+  },
+  "dependencies": {
+    "@fighting-design/eslint-config-ts": "workspace:*",
+    "eslint-plugin-vue": "^9.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "author": {
+    "name": "tyh2001",
+    "url": "https://tianyuhao.cn"
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "name": "@fighting-design/fighting-eslint-config",
+  "name": "@fighting-design/fighting-eslint-config-monorepo",
   "version": "0.0.1",
   "description": "Fighting design out of the box eslint configuration item.",
   "main": "index.js",
@@ -21,11 +21,7 @@
   "devDependencies": {
     "eslint": "^8.18.0"
   },
-  "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.34.0",
-    "@typescript-eslint/parser": "^5.34.0",
-    "eslint-plugin-vue": "^9.4.0"
-  },
+  "dependencies": {},
   "author": {
     "name": "tyh2001",
     "url": "https://tianyuhao.cn"

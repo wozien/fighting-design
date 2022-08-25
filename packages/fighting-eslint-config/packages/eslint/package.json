@@ -1,0 +1,22 @@
+{
+  "name": "@fighting-design/eslint-config-eslint",
+  "version": "0.0.1",
+  "description": "",
+  "license": "MIT",
+  "keywords": [],
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "eslint": ">=7.4.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "author": {
+    "name": "tyh2001",
+    "url": "https://tianyuhao.cn"
+  }
+}
